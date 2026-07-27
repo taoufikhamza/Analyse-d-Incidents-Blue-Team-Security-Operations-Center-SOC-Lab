@@ -23,7 +23,7 @@ Ce dépôt contient un guide complet et la documentation technique d'un **Securi
 
 L'environnement repose sur **VMware Workstation / VirtualBox** configuré sous un sous-réseau NAT isolé (`192.168.146.0/24`).
 
-![SOC Lab Architecture](assets/soc_lab_architecture.png)
+![Schéma d'Architecture SOC](assets/architecture_schema.png)
 
 ### 🖥️ Inventaire des Machines Virtuelles
 
